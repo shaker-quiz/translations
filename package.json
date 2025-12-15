@@ -12,6 +12,6 @@
     "source"
   ],
   "exports": {
-    "./translations/*.json": "./source/translations/*.json"
+    "./*.json": "./source/translations/*.json"
   }
 }
