@@ -11,13 +11,16 @@
   "user/role": {
     "id": "Значение"
   },
+  "user/city": {
+    "id": "Значение"
+  },
   "city": {
     "name": "Название",
     "alias": "Алиас",
     "country": "Страна",
     "currency_name": "Валюта",
-    "affilation": "Тип",
-    "timezone_name": "Часовой пояс"
+    "timezone_name": "Часовой пояс",
+    "affilation": "Тип"
   },
   "venue": {
     "name": "Название",
@@ -30,9 +33,9 @@
   },
   "theme": {
     "name": "Название",
-    "short_description": "Краткое описание",
-    "description": "Описание",
-    "alias": "Алиас"
+    "alias": "Алиас",
+    "subtitle": "Подзаголовок",
+    "description": "Описание"
   },
   "game": {
     "location_id": "Место",
@@ -41,38 +44,32 @@
     "event_time": "Дата и время"
   },
   "registration": {
-    "ads_from": "ads_from",
-    "celebrant": "celebrant",
-    "change_people_count": "change_people_count",
+    "ads_from": "Откуда узнали о нас",
+    "celebrant": "Именинник",
     "channel": "channel",
     "chatapp_id": "chatapp_id",
-    "comment": "comment",
+    "comment": "Комментарий к регистрации",
+    "note": "Заметка к регистрации",
     "confirmed_channel": "confirmed_channel",
-    "email": "email",
+    "email": "Электронная почта",
     "event_id": "event_id",
-    "fact_people_count": "fact_people_count",
-    "human_name": "human_name",
+    "human_name": "Капитан",
     "id": "id",
-    "is_actual_presence": "is_actual_presence",
-    "is_alone": "is_alone",
-    "is_birthday": "is_birthday",
+    "is_alone": "Без команды",
+    "is_birthday": "С именинником",
     "is_canceled": "is_canceled",
     "is_confirm": "is_confirm",
-    "is_extensible": "is_extensible",
-    "is_first": "is_first",
+    "is_extensible": "Принимает игроков",
+    "is_first": "Новичок",
     "is_reserve": "is_reserve",
-    "last_broadcast": "last_broadcast",
     "lineup": "lineup",
     "mailing": "mailing",
-    "note": "note",
-    "people_count": "people_count",
-    "phone": "phone",
-    "promocode": "promocode",
+    "people_count": "Количество человек",
+    "phone": "Номер телефона",
+    "promocode": "Промокод",
     "status": "status",
-    "team_name": "team_name",
+    "team_name": "Команда",
     "telegramBot": "telegramBot",
-    "time_created": "time_created",
-    "time_updated": "time_updated",
     "utm_campaign": "utm_campaign",
     "utm_content": "utm_content",
     "utm_medium": "utm_medium",

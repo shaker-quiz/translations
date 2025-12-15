@@ -11,13 +11,16 @@
   "user/role": {
     "id": "Нет значения"
   },
+  "user/city": {
+    "id": "Нет значения"
+  },
   "city": {
     "name": "Нет значения",
     "alias": "Нет значения",
     "country": "Нет значения",
     "currency_name": "Нет значения",
-    "affilation": "Нет значения",
-    "timezone_name": "Нет значения"
+    "timezone_name": "Нет значения",
+    "affilation": "Нет значения"
   },
   "venue": {
     "name": "Нет значения",
@@ -30,9 +33,9 @@
   },
   "theme": {
     "name": "Нет значения",
-    "short_description": "Нет значения",
-    "description": "Нет значения",
-    "alias": "Нет значения"
+    "alias": "Нет значения",
+    "subtitle": "Нет значения",
+    "description": "Нет значения"
   },
   "game": {
     "location_id": "Нет значения",
