@@ -16,8 +16,5 @@
   ],
   "exports": {
     "./translations/*.json": "./source/translations/*.json"
-  },
-  "devDependencies": {
-    "@shakerquiz/utilities": "0.5.219"
   }
 }
