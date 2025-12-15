@@ -8,9 +8,6 @@
     "type": "git",
     "url": "https://github.com/shaker-quiz/translations.git"
   },
-  "scripts": {
-    "prepublishOnly": "node ./generate.js"
-  },
   "files": [
     "source"
   ],
