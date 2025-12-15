@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "@shakerquiz/contracts",
+  "version": "0.0.14",
+  "author": "yurkimus <yurkimus@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaker-quiz/contracts.git"
+  },
+  "scripts": {
+    "prepublishOnly": "node ./generate.js"
+  },
+  "files": [
+    "source"
+  ],
+  "exports": {
+    "./translations/*.json": "./source/translations/*.json"
+  },
+  "devDependencies": {
+    "@shakerquiz/utilities": "0.5.219"
+  }
+}
