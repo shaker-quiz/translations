@@ -1,0 +1,11 @@
+{
+  "REJECTED": "Отклонено",
+  "MODERATION": "На проверке",
+  "APPROVED": "Одобрено",
+  "CLOSED": "Закрыта",
+  "FORINVITES": "По приглашению",
+  "PUBLISHED": "Опубликовано",
+  "IS_RESERVE": "В резерве",
+  "FINISHED": "Завершено",
+  "ARCHIVE": "В архиве"
+}
