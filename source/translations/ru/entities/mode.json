@@ -1,0 +1,22 @@
+{
+  "Singular": {
+    "Masculine": {
+      "Known": "Назначен",
+      "Unknown": "Не назначен"
+    },
+    "Feminine": {
+      "Known": "Назначена",
+      "Unknown": "Не назначена"
+    },
+    "Neuter": {
+      "Known": "Назначено",
+      "Unknown": "Не назначено"
+    }
+  },
+  "Plural": {
+    "Indeterminate": {
+      "Known": "Назначены",
+      "Unknown": "Не назначены"
+    }
+  }
+}
