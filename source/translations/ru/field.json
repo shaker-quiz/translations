@@ -267,6 +267,10 @@
     "label": "ID телеграм-канала",
     "placeholder": "Нет значения"
   },
+  "city/vk_group_token": {
+    "label": "Токен сообщества VK",
+    "placeholder": "Нет значения"
+  },
   "venue/name": {
     "label": "Название",
     "placeholder": "Нет значения"
