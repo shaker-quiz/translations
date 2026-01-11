@@ -7,6 +7,10 @@
     "title": "<title>",
     "description": "<description>"
   },
+  "POST/city/vk_group_token": {
+    "title": "<title>",
+    "description": "<description>"
+  },
   "POST/game": {
     "title": "<title>",
     "description": "<description>"
@@ -67,6 +71,10 @@
     "title": "<title>",
     "description": "<description>"
   },
+  "PATCH/city/vk_group_token": {
+    "title": "<title>",
+    "description": "<description>"
+  },
   "PATCH/game": {
     "title": "<title>",
     "description": "<description>"
@@ -108,6 +116,10 @@
     "description": "<description>"
   },
   "PATCH/venue": {
+    "title": "<title>",
+    "description": "<description>"
+  },
+  "DELETE/city/vk_group_token": {
     "title": "<title>",
     "description": "<description>"
   },
