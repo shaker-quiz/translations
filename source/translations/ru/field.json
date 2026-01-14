@@ -176,7 +176,7 @@
     "placeholder": "Нет значения"
   },
   "city/vk_group_id": {
-    "label": "vk_group_id",
+    "label": "ID сообщества в VK",
     "placeholder": "Нет значения"
   },
   "city/chatapp_line": {
