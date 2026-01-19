@@ -1,138 +1,138 @@
 {
   "POST/checkin": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные для входа",
+    "description": ""
   },
   "POST/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные города",
+    "description": ""
   },
   "POST/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный токен VK",
+    "description": ""
   },
   "POST/game": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные игры",
+    "description": ""
   },
   "POST/game/registrations/export": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные параметры экспорта",
+    "description": ""
   },
   "POST/registration": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные регистрации",
+    "description": ""
   },
   "POST/registration/mailing": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные параметры рассылки",
+    "description": ""
   },
   "POST/registrations/export": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные параметры экспорта",
+    "description": ""
   },
   "POST/theme": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные темы",
+    "description": ""
   },
   "POST/user": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные пользователя",
+    "description": ""
   },
   "POST/user/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный город",
+    "description": ""
   },
   "POST/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный пароль",
+    "description": ""
   },
   "POST/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверная роль",
+    "description": ""
   },
   "POST/venue": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные места",
+    "description": ""
   },
   "PATCH/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные города",
+    "description": ""
   },
   "PATCH/city/country": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверная страна",
+    "description": ""
   },
   "PATCH/city/currency": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверная валюта",
+    "description": ""
   },
   "PATCH/city/timezone": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный часовой пояс",
+    "description": ""
   },
   "PATCH/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный токен VK",
+    "description": ""
   },
   "PATCH/game": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные игры",
+    "description": ""
   },
   "PATCH/games": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные игр",
+    "description": ""
   },
   "PATCH/registration": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные регистрации",
+    "description": ""
   },
   "PATCH/registration/cancellation": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Невозможно отменить регистрацию",
+    "description": ""
   },
   "PATCH/registration/channel": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный канал связи",
+    "description": ""
   },
   "PATCH/registration/confirmation": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Невозможно подтвердить регистрацию",
+    "description": ""
   },
   "PATCH/theme": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные темы",
+    "description": ""
   },
   "PATCH/user": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные пользователя",
+    "description": ""
   },
   "PATCH/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный пароль",
+    "description": ""
   },
   "PATCH/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверная роль",
+    "description": ""
   },
   "PATCH/venue": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверные данные места",
+    "description": ""
   },
   "DELETE/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный токен VK",
+    "description": ""
   },
   "DELETE/user/cities": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный город",
+    "description": ""
   },
   "DELETE/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверный пароль",
+    "description": ""
   },
   "DELETE/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Неверная роль",
+    "description": ""
   }
 }
