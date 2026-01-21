@@ -79,6 +79,14 @@
     "label": "telegram_data",
     "placeholder": "Нет значения"
   },
+  "user/role/id": {
+    "label": "ID роли",
+    "placeholder": "Нет значения"
+  },
+  "user/password/value": {
+    "label": "Пароль",
+    "placeholder": "Нет значения"
+  },
   "city/name": {
     "label": "Название",
     "placeholder": "Нет значения"
@@ -268,6 +276,22 @@
     "placeholder": "Нет значения"
   },
   "city/vk_group_token": {
+    "label": "Токен сообщества VK",
+    "placeholder": "Нет значения"
+  },
+  "city/country/id": {
+    "label": "Страна",
+    "placeholder": "Нет значения"
+  },
+  "city/currency/id": {
+    "label": "Валюта",
+    "placeholder": "Нет значения"
+  },
+  "city/timezone/id": {
+    "label": "Часовой пояс",
+    "placeholder": "Нет значения"
+  },
+  "city/vk_group_token/value": {
     "label": "Токен сообщества VK",
     "placeholder": "Нет значения"
   },

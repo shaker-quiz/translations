@@ -1,7 +1,7 @@
 {
   "POST/checkin": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Успешная авторизация!",
+    "description": ""
   },
   "POST/city": {
     "title": "<title>",
