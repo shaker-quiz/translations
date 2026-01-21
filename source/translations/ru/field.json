@@ -288,7 +288,7 @@
     "placeholder": "Нет значения"
   },
   "city/timezone/id": {
-    "label": "Валюта",
+    "label": "Часовой пояс",
     "placeholder": "Нет значения"
   },
   "city/vk_group_token/value": {
