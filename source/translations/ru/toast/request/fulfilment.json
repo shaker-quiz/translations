@@ -27,6 +27,10 @@
     "title": "<title>",
     "description": "<description>"
   },
+  "POST/chatapp/registration/mailing": {
+    "title": "<title>",
+    "description": "<description>"
+  },
   "POST/registrations/export": {
     "title": "<title>",
     "description": "<description>"
