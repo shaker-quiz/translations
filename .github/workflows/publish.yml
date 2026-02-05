@@ -5,7 +5,7 @@ on:
     types: [ closed ]
     branches:
       - main
-  workflow_dispatchq:
+  workflow_dispatch:
     inputs:
       utilities:
         description: "Bump @shakerquiz/utilities@aquamarine?"
