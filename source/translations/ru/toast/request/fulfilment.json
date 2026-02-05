@@ -5,138 +5,138 @@
   },
   "POST/city": {
     "title": "Город создан!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/city/vk_group_token": {
     "title": "Токен VK добавлен!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/game": {
     "title": "Игра создана!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/game/registrations/export": {
     "title": "Регистрации экспортированы!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/registration": {
     "title": "Регистрация создана!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/registration/mailing": {
     "title": "Рассылка отправлена!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/chatapp/registration/mailing": {
     "title": "Рассылка отправлена!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/registrations/export": {
     "title": "Регистрации экспортированы!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/theme": {
     "title": "Тема создана!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/user": {
     "title": "Пользователь создан!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/user/city": {
     "title": "Город добавлен!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/user/password": {
     "title": "Пароль установлен!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/user/role": {
     "title": "Роль назначена!",
-    "description": "<description>"
+    "description": ""
   },
   "POST/venue": {
     "title": "Место создано!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/city": {
     "title": "Город обновлён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/city/country": {
     "title": "Страна изменена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/city/currency": {
     "title": "Валюта изменена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/city/timezone": {
     "title": "Часовой пояс изменён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/city/vk_group_token": {
     "title": "Токен VK обновлён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/game": {
     "title": "Игра обновлена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/games": {
     "title": "Игры обновлены!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/registration": {
     "title": "Регистрация обновлена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/registration/cancellation": {
     "title": "Регистрация отменена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/registration/channel": {
     "title": "Канал связи изменён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/registration/confirmation": {
     "title": "Регистрация подтверждена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/theme": {
     "title": "Тема обновлена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/user": {
     "title": "Пользователь обновлён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/user/password": {
     "title": "Пароль изменён!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/user/role": {
     "title": "Роль изменена!",
-    "description": "<description>"
+    "description": ""
   },
   "PATCH/venue": {
     "title": "Место обновлено!",
-    "description": "<description>"
+    "description": ""
   },
   "DELETE/city/vk_group_token": {
     "title": "Токен VK удалён!",
-    "description": "<description>"
+    "description": ""
   },
   "DELETE/user/cities": {
     "title": "Города удалены!",
-    "description": "<description>"
+    "description": ""
   },
   "DELETE/user/password": {
     "title": "Пароль сброшен!",
-    "description": "<description>"
+    "description": ""
   },
   "DELETE/user/role": {
     "title": "Роль удалена!",
-    "description": "<description>"
+    "description": ""
   }
 }
