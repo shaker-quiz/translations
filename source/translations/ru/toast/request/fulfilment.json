@@ -8,7 +8,7 @@
     "description": ""
   },
   "POST/city/vk_group_token": {
-    "title": "Токен VK добавлен!",
+    "title": "Токен VK города добавлен!",
     "description": ""
   },
   "POST/game": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "POST/game/registrations/export": {
-    "title": "Регистрации экспортированы!",
+    "title": "Регистрации игры экспортированы!",
     "description": ""
   },
   "POST/registration": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "POST/registration/mailing": {
-    "title": "Рассылка отправлена!",
+    "title": "Рассылка по регистрации отправлена!",
     "description": ""
   },
   "POST/chatapp/registration/mailing": {
-    "title": "Рассылка отправлена!",
+    "title": "Рассылка по регистрации отправлена!",
     "description": ""
   },
   "POST/registrations/export": {
@@ -44,15 +44,15 @@
     "description": ""
   },
   "POST/user/city": {
-    "title": "Город добавлен!",
+    "title": "Город пользователя добавлен!",
     "description": ""
   },
   "POST/user/password": {
-    "title": "Пароль установлен!",
+    "title": "Пароль пользователя установлен!",
     "description": ""
   },
   "POST/user/role": {
-    "title": "Роль назначена!",
+    "title": "Роль пользователя назначена!",
     "description": ""
   },
   "POST/venue": {
@@ -64,19 +64,19 @@
     "description": ""
   },
   "PATCH/city/country": {
-    "title": "Страна изменена!",
+    "title": "Страна города изменена!",
     "description": ""
   },
   "PATCH/city/currency": {
-    "title": "Валюта изменена!",
+    "title": "Валюта города изменена!",
     "description": ""
   },
   "PATCH/city/timezone": {
-    "title": "Часовой пояс изменён!",
+    "title": "Часовой пояс города изменён!",
     "description": ""
   },
   "PATCH/city/vk_group_token": {
-    "title": "Токен VK обновлён!",
+    "title": "Токен VK города обновлён!",
     "description": ""
   },
   "PATCH/game": {
@@ -96,7 +96,7 @@
     "description": ""
   },
   "PATCH/registration/channel": {
-    "title": "Канал связи изменён!",
+    "title": "Канал связи регистрации изменён!",
     "description": ""
   },
   "PATCH/registration/confirmation": {
@@ -112,11 +112,11 @@
     "description": ""
   },
   "PATCH/user/password": {
-    "title": "Пароль изменён!",
+    "title": "Пароль пользователя изменён!",
     "description": ""
   },
   "PATCH/user/role": {
-    "title": "Роль изменена!",
+    "title": "Роль пользователя изменена!",
     "description": ""
   },
   "PATCH/venue": {
@@ -124,19 +124,19 @@
     "description": ""
   },
   "DELETE/city/vk_group_token": {
-    "title": "Токен VK удалён!",
+    "title": "Токен VK города удалён!",
     "description": ""
   },
   "DELETE/user/cities": {
-    "title": "Города удалены!",
+    "title": "Города пользователя удалены!",
     "description": ""
   },
   "DELETE/user/password": {
-    "title": "Пароль сброшен!",
+    "title": "Пароль пользователя сброшен!",
     "description": ""
   },
   "DELETE/user/role": {
-    "title": "Роль удалена!",
+    "title": "Роль пользователя удалена!",
     "description": ""
   }
 }
