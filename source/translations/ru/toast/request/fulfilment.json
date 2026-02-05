@@ -4,139 +4,139 @@
     "description": ""
   },
   "POST/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Город создан!",
+    "description": ""
   },
   "POST/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Токен VK города добавлен!",
+    "description": ""
   },
   "POST/game": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Игра создана!",
+    "description": ""
   },
   "POST/game/registrations/export": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрации игры экспортированы!",
+    "description": ""
   },
   "POST/registration": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрация создана!",
+    "description": ""
   },
   "POST/registration/mailing": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Рассылка по регистрации отправлена!",
+    "description": ""
   },
   "POST/chatapp/registration/mailing": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Рассылка по регистрации отправлена!",
+    "description": ""
   },
   "POST/registrations/export": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрации экспортированы!",
+    "description": ""
   },
   "POST/theme": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Тема создана!",
+    "description": ""
   },
   "POST/user": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Пользователь создан!",
+    "description": ""
   },
   "POST/user/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Город пользователя добавлен!",
+    "description": ""
   },
   "POST/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Пароль пользователя установлен!",
+    "description": ""
   },
   "POST/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Роль пользователя назначена!",
+    "description": ""
   },
   "POST/venue": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Место создано!",
+    "description": ""
   },
   "PATCH/city": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Город обновлён!",
+    "description": ""
   },
   "PATCH/city/country": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Страна города изменена!",
+    "description": ""
   },
   "PATCH/city/currency": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Валюта города изменена!",
+    "description": ""
   },
   "PATCH/city/timezone": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Часовой пояс города изменён!",
+    "description": ""
   },
   "PATCH/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Токен VK города обновлён!",
+    "description": ""
   },
   "PATCH/game": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Игра обновлена!",
+    "description": ""
   },
   "PATCH/games": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Игры обновлены!",
+    "description": ""
   },
   "PATCH/registration": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрация обновлена!",
+    "description": ""
   },
   "PATCH/registration/cancellation": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрация отменена!",
+    "description": ""
   },
   "PATCH/registration/channel": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Канал связи регистрации изменён!",
+    "description": ""
   },
   "PATCH/registration/confirmation": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Регистрация подтверждена!",
+    "description": ""
   },
   "PATCH/theme": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Тема обновлена!",
+    "description": ""
   },
   "PATCH/user": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Пользователь обновлён!",
+    "description": ""
   },
   "PATCH/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Пароль пользователя изменён!",
+    "description": ""
   },
   "PATCH/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Роль пользователя изменена!",
+    "description": ""
   },
   "PATCH/venue": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Место обновлено!",
+    "description": ""
   },
   "DELETE/city/vk_group_token": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Токен VK города удалён!",
+    "description": ""
   },
   "DELETE/user/cities": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Города пользователя удалены!",
+    "description": ""
   },
   "DELETE/user/password": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Пароль пользователя сброшен!",
+    "description": ""
   },
   "DELETE/user/role": {
-    "title": "<title>",
-    "description": "<description>"
+    "title": "Роль пользователя удалена!",
+    "description": ""
   }
 }
