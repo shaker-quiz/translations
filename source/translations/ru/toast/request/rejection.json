@@ -1,142 +1,142 @@
 {
   "POST/checkin": {
-    "title": "<title>",
+    "title": "Не удалось войти",
     "description": "<description>"
   },
   "POST/city": {
-    "title": "<title>",
+    "title": "Не удалось создать город",
     "description": "<description>"
   },
   "POST/city/vk_group_token": {
-    "title": "<title>",
+    "title": "Не удалось добавить токен VK города",
     "description": "<description>"
   },
   "POST/game": {
-    "title": "<title>",
+    "title": "Не удалось создать игру",
     "description": "<description>"
   },
   "POST/game/registrations/export": {
-    "title": "<title>",
+    "title": "Не удалось экспортировать регистрации игры",
     "description": "<description>"
   },
   "POST/registration": {
-    "title": "<title>",
+    "title": "Не удалось создать регистрацию",
     "description": "<description>"
   },
   "POST/registration/mailing": {
-    "title": "<title>",
+    "title": "Не удалось отправить рассылку по регистрации",
     "description": "<description>"
   },
   "POST/chatapp/registration/mailing": {
-    "title": "<title>",
+    "title": "Не удалось отправить рассылку по регистрации",
     "description": "<description>"
   },
   "POST/registrations/export": {
-    "title": "<title>",
+    "title": "Не удалось экспортировать регистрации",
     "description": "<description>"
   },
   "POST/theme": {
-    "title": "<title>",
+    "title": "Не удалось создать тему",
     "description": "<description>"
   },
   "POST/user": {
-    "title": "<title>",
+    "title": "Не удалось создать пользователя",
     "description": "<description>"
   },
   "POST/user/city": {
-    "title": "<title>",
+    "title": "Не удалось добавить город пользователя",
     "description": "<description>"
   },
   "POST/user/password": {
-    "title": "<title>",
+    "title": "Не удалось установить пароль пользователя",
     "description": "<description>"
   },
   "POST/user/role": {
-    "title": "<title>",
+    "title": "Не удалось назначить роль пользователя",
     "description": "<description>"
   },
   "POST/venue": {
-    "title": "<title>",
+    "title": "Не удалось создать место",
     "description": "<description>"
   },
   "PATCH/city": {
-    "title": "<title>",
+    "title": "Не удалось обновить город",
     "description": "<description>"
   },
   "PATCH/city/country": {
-    "title": "<title>",
+    "title": "Не удалось изменить страну города",
     "description": "<description>"
   },
   "PATCH/city/currency": {
-    "title": "<title>",
+    "title": "Не удалось изменить валюту города",
     "description": "<description>"
   },
   "PATCH/city/timezone": {
-    "title": "<title>",
+    "title": "Не удалось изменить часовой пояс города",
     "description": "<description>"
   },
   "PATCH/city/vk_group_token": {
-    "title": "<title>",
+    "title": "Не удалось обновить токен VK города",
     "description": "<description>"
   },
   "PATCH/game": {
-    "title": "<title>",
+    "title": "Не удалось обновить игру",
     "description": "<description>"
   },
   "PATCH/games": {
-    "title": "<title>",
+    "title": "Не удалось обновить игры",
     "description": "<description>"
   },
   "PATCH/registration": {
-    "title": "<title>",
+    "title": "Не удалось обновить регистрацию",
     "description": "<description>"
   },
   "PATCH/registration/cancellation": {
-    "title": "<title>",
+    "title": "Не удалось отменить регистрацию",
     "description": "<description>"
   },
   "PATCH/registration/channel": {
-    "title": "<title>",
+    "title": "Не удалось изменить канал связи регистрации",
     "description": "<description>"
   },
   "PATCH/registration/confirmation": {
-    "title": "<title>",
+    "title": "Не удалось подтвердить регистрацию",
     "description": "<description>"
   },
   "PATCH/theme": {
-    "title": "<title>",
+    "title": "Не удалось обновить тему",
     "description": "<description>"
   },
   "PATCH/user": {
-    "title": "<title>",
+    "title": "Не удалось обновить пользователя",
     "description": "<description>"
   },
   "PATCH/user/password": {
-    "title": "<title>",
+    "title": "Не удалось изменить пароль пользователя",
     "description": "<description>"
   },
   "PATCH/user/role": {
-    "title": "<title>",
+    "title": "Не удалось изменить роль пользователя",
     "description": "<description>"
   },
   "PATCH/venue": {
-    "title": "<title>",
+    "title": "Не удалось обновить место",
     "description": "<description>"
   },
   "DELETE/city/vk_group_token": {
-    "title": "<title>",
+    "title": "Не удалось удалить токен VK города",
     "description": "<description>"
   },
   "DELETE/user/cities": {
-    "title": "<title>",
+    "title": "Не удалось удалить города пользователя",
     "description": "<description>"
   },
   "DELETE/user/password": {
-    "title": "<title>",
+    "title": "Не удалось сбросить пароль пользователя",
     "description": "<description>"
   },
   "DELETE/user/role": {
-    "title": "<title>",
+    "title": "Не удалось удалить роль пользователя",
     "description": "<description>"
   }
 }
