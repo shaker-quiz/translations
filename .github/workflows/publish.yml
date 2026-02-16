@@ -1,4 +1,4 @@
-name: Publish/Update package
+name: Publish @shakerquiz/translations
 
 on:
   pull_request:
