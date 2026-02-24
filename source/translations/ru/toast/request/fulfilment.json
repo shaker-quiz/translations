@@ -15,10 +15,6 @@
     "title": "Игра создана!",
     "description": ""
   },
-  "POST/game/registrations/export": {
-    "title": "Регистрации игры экспортированы!",
-    "description": ""
-  },
   "POST/registration": {
     "title": "Регистрация создана!",
     "description": ""
@@ -29,10 +25,6 @@
   },
   "POST/chatapp/registration/mailing": {
     "title": "Рассылка по регистрации отправлена!",
-    "description": ""
-  },
-  "POST/registrations/export": {
-    "title": "Регистрации экспортированы!",
     "description": ""
   },
   "POST/theme": {
@@ -112,12 +104,12 @@
     "description": ""
   },
   "PATCH/registrations/lineup": {
-    "title": "Доступные составы регистраций обновлены!",
-    "description": "Составы, недоступные к обновлению, были пропущены"
+    "title": "Доступные составы обновлены!",
+    "description": "Недоступные к обновлению, были пропущены"
   },
   "PATCH/registrations/status": {
-    "title": "Доступные статусы регистраций обновлены!",
-    "description": "Статусы, недоступные к обновлению, были пропущены"
+    "title": "Доступные статусы обновлены!",
+    "description": "Недоступные к обновлению, были пропущены"
   },
   "PATCH/theme": {
     "title": "Тема обновлена!",

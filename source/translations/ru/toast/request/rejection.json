@@ -91,33 +91,17 @@
     "title": "Не удалось обновить регистрацию",
     "description": ""
   },
-  "PATCH/registration/cancellation": {
-    "title": "Не удалось отменить регистрацию",
-    "description": ""
-  },
   "PATCH/registration/channel": {
     "title": "Не удалось изменить канал связи регистрации",
     "description": ""
   },
-  "PATCH/registration/confirmation": {
-    "title": "Не удалось подтвердить регистрацию",
-    "description": ""
-  },
-  "PATCH/registration/lineup": {
-    "title": "Не удалось изменить состав регистрации",
-    "description": ""
-  },
-  "PATCH/registration/status": {
-    "title": "Не удалось изменить статус регистрации",
-    "description": ""
+  "PATCH/registrations/status": {
+    "title": "Не удалось обновить статусы",
+    "description": "Часть статусов могла быть обновлена до возникновения ошибки"
   },
   "PATCH/registrations/lineup": {
-    "title": "Не удалось обновить составы регистраций",
+    "title": "Не удалось обновить составы",
     "description": "Часть составов могла быть обновлена до возникновения ошибки"
-  },
-  "PATCH/registrations/status": {
-    "title": "Не удалось обновить статусы регистраций",
-    "description": "Часть статусов могла быть обновлена до возникновения ошибки"
   },
   "PATCH/theme": {
     "title": "Не удалось обновить тему",
