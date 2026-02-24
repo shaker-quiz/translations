@@ -103,8 +103,28 @@
     "title": "Не удалось подтвердить регистрацию",
     "description": ""
   },
+  "PATCH/registration/lineup": {
+    "title": "Не удалось изменить состав регистрации",
+    "description": ""
+  },
+  "PATCH/registration/status": {
+    "title": "Не удалось изменить статус регистрации",
+    "description": ""
+  },
+  "PATCH/registrations/lineup": {
+    "title": "Не удалось изменить составы регистраций",
+    "description": ""
+  },
+  "PATCH/registrations/status": {
+    "title": "Не удалось изменить статусы регистраций",
+    "description": ""
+  },
   "PATCH/theme": {
     "title": "Не удалось обновить тему",
+    "description": ""
+  },
+  "PATCH/themes": {
+    "title": "Не удалось обновить темы",
     "description": ""
   },
   "PATCH/user": {
@@ -119,12 +139,20 @@
     "title": "Не удалось изменить роль пользователя",
     "description": ""
   },
+  "PATCH/venues": {
+    "title": "Не удалось обновить места",
+    "description": ""
+  },
   "PATCH/venue": {
     "title": "Не удалось обновить место",
     "description": ""
   },
   "DELETE/city/vk_group_token": {
     "title": "Не удалось удалить токен VK города",
+    "description": ""
+  },
+  "DELETE/user/city": {
+    "title": "Не удалось удалить город пользователя",
     "description": ""
   },
   "DELETE/user/cities": {

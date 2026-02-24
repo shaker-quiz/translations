@@ -103,8 +103,28 @@
     "title": "Регистрация подтверждена!",
     "description": ""
   },
+  "PATCH/registration/lineup": {
+    "title": "Состав регистрации изменён!",
+    "description": ""
+  },
+  "PATCH/registration/status": {
+    "title": "Статус регистрации изменён!",
+    "description": ""
+  },
+  "PATCH/registrations/lineup": {
+    "title": "Составы регистраций изменены!",
+    "description": ""
+  },
+  "PATCH/registrations/status": {
+    "title": "Статусы регистраций изменены!",
+    "description": ""
+  },
   "PATCH/theme": {
     "title": "Тема обновлена!",
+    "description": ""
+  },
+  "PATCH/themes": {
+    "title": "Темы обновлены!",
     "description": ""
   },
   "PATCH/user": {
@@ -119,12 +139,20 @@
     "title": "Роль пользователя изменена!",
     "description": ""
   },
+  "PATCH/venues": {
+    "title": "Места обновлены!",
+    "description": ""
+  },
   "PATCH/venue": {
     "title": "Место обновлено!",
     "description": ""
   },
   "DELETE/city/vk_group_token": {
     "title": "Токен VK города удалён!",
+    "description": ""
+  },
+  "DELETE/user/city": {
+    "title": "Город пользователя удалён!",
     "description": ""
   },
   "DELETE/user/cities": {
