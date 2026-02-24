@@ -131,18 +131,6 @@
     "label": "custom_html",
     "placeholder": "Нет значения"
   },
-  "city/country_id": {
-    "label": "Страна",
-    "placeholder": "Нет значения"
-  },
-  "city/currency_id": {
-    "label": "Валюта",
-    "placeholder": "Нет значения"
-  },
-  "city/timezone_id": {
-    "label": "Часовой пояс",
-    "placeholder": "Нет значения"
-  },
   "city/country/id": {
     "label": "Страна",
     "placeholder": "Нет значения"
@@ -225,10 +213,6 @@
   },
   "theme/cover/cover": {
     "label": "Обложка",
-    "placeholder": "Нет значения"
-  },
-  "theme/cover/file": {
-    "label": "Файл",
     "placeholder": "Нет значения"
   },
   "game/number": {
