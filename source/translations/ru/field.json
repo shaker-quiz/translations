@@ -7,20 +7,8 @@
     "label": "Пароль",
     "placeholder": "Нет значения"
   },
-  "user/role_id": {
-    "label": "ID роли",
-    "placeholder": "Нет значения"
-  },
-  "user/id": {
-    "label": "ID",
-    "placeholder": "Нет значения"
-  },
-  "user/time_created": {
-    "label": "Время создания",
-    "placeholder": "Нет значения"
-  },
-  "user/time_updated": {
-    "label": "Время последнего обновления",
+  "user/email": {
+    "label": "Электронная почта",
     "placeholder": "Нет значения"
   },
   "user/first_name": {
@@ -31,136 +19,52 @@
     "label": "Фамилия",
     "placeholder": "Нет значения"
   },
-  "user/email": {
-    "label": "Электронная почта",
-    "placeholder": "Нет значения"
-  },
-  "user/is_active": {
-    "label": "is_active",
-    "placeholder": "Нет значения"
-  },
-  "user/is_superuser": {
-    "label": "is_superuser",
-    "placeholder": "Нет значения"
-  },
-  "user/is_verified": {
-    "label": "is_verified",
-    "placeholder": "Нет значения"
-  },
-  "user/hashed_password": {
-    "label": "hashed_password",
-    "placeholder": "Нет значения"
-  },
-  "user/image_id": {
-    "label": "image_id",
-    "placeholder": "Нет значения"
-  },
-  "user/third_name": {
-    "label": "third_name",
-    "placeholder": "Нет значения"
-  },
   "user/phone": {
     "label": "Номер телефона",
     "placeholder": "Нет значения"
   },
-  "user/gmail_link": {
-    "label": "gmail_link",
+  "user/city/id": {
+    "label": "Город",
     "placeholder": "Нет значения"
   },
-  "user/mailru_link": {
-    "label": "mailru_link",
-    "placeholder": "Нет значения"
-  },
-  "user/telegram_id": {
-    "label": "telegram_id",
-    "placeholder": "Нет значения"
-  },
-  "user/telegram_data": {
-    "label": "telegram_data",
+  "user/password/password": {
+    "label": "Пароль",
     "placeholder": "Нет значения"
   },
   "user/role/id": {
     "label": "ID роли",
     "placeholder": "Нет значения"
   },
-  "user/password/value": {
-    "label": "Пароль",
-    "placeholder": "Нет значения"
-  },
   "city/name": {
     "label": "Название",
     "placeholder": "Нет значения"
   },
-  "city/id": {
-    "label": "ID",
+  "city/alias": {
+    "label": "alias",
     "placeholder": "Нет значения"
   },
-  "city/time_created": {
-    "label": "Время создания",
+  "city/affilation": {
+    "label": "Тип",
     "placeholder": "Нет значения"
   },
-  "city/time_updated": {
-    "label": "Время последнего обновления",
+  "city/address": {
+    "label": "address",
+    "placeholder": "Нет значения"
+  },
+  "city/phone": {
+    "label": "phone",
+    "placeholder": "Нет значения"
+  },
+  "city/email": {
+    "label": "email",
     "placeholder": "Нет значения"
   },
   "city/price": {
     "label": "Стандартная стоимость игры",
     "placeholder": "Нет значения"
   },
-  "city/currency": {
-    "label": "Валюта",
-    "placeholder": "Нет значения"
-  },
   "city/game_time": {
     "label": "Стандартное время локации",
-    "placeholder": "Нет значения"
-  },
-  "city/timezone": {
-    "label": "timezone",
-    "placeholder": "Нет значения"
-  },
-  "city/vk_link": {
-    "label": "vk_link",
-    "placeholder": "Нет значения"
-  },
-  "city/vk_comment": {
-    "label": "vk_comment",
-    "placeholder": "Нет значения"
-  },
-  "city/tg_link": {
-    "label": "tg_link",
-    "placeholder": "Нет значения"
-  },
-  "city/tg_login": {
-    "label": "tg_login",
-    "placeholder": "Нет значения"
-  },
-  "city/tg_password": {
-    "label": "tg_password",
-    "placeholder": "Нет значения"
-  },
-  "city/tg_comment": {
-    "label": "tg_comment",
-    "placeholder": "Нет значения"
-  },
-  "city/inst_link": {
-    "label": "inst_link",
-    "placeholder": "Нет значения"
-  },
-  "city/inst_login": {
-    "label": "inst_login",
-    "placeholder": "Нет значения"
-  },
-  "city/inst_password": {
-    "label": "inst_password",
-    "placeholder": "Нет значения"
-  },
-  "city/inst_comment": {
-    "label": "inst_comment",
-    "placeholder": "Нет значения"
-  },
-  "city/is_franchise": {
-    "label": "is_franchise",
     "placeholder": "Нет значения"
   },
   "city/min_members_count": {
@@ -171,20 +75,8 @@
     "label": "max_members_count",
     "placeholder": "Нет значения"
   },
-  "city/custom_script": {
-    "label": "custom_script",
-    "placeholder": "Нет значения"
-  },
-  "city/custom_html": {
-    "label": "custom_html",
-    "placeholder": "Нет значения"
-  },
-  "city/alias": {
-    "label": "alias",
-    "placeholder": "Нет значения"
-  },
-  "city/vk_group_id": {
-    "label": "ID сообщества в VK",
+  "city/chatapp_version": {
+    "label": "Версия ChatApp",
     "placeholder": "Нет значения"
   },
   "city/chatapp_line": {
@@ -203,80 +95,52 @@
     "label": "chatapp_category",
     "placeholder": "Нет значения"
   },
+  "city/vk_link": {
+    "label": "vk_link",
+    "placeholder": "Нет значения"
+  },
+  "city/vk_group_id": {
+    "label": "ID сообщества в VK",
+    "placeholder": "Нет значения"
+  },
+  "city/tg_link": {
+    "label": "tg_link",
+    "placeholder": "Нет значения"
+  },
   "city/telegram_chat_id": {
     "label": "telegram_chat_id",
-    "placeholder": "Нет значения"
-  },
-  "city/title": {
-    "label": "title",
-    "placeholder": "Нет значения"
-  },
-  "city/description": {
-    "label": "description",
-    "placeholder": "Нет значения"
-  },
-  "city/region": {
-    "label": "region",
-    "placeholder": "Нет значения"
-  },
-  "city/country": {
-    "label": "country",
-    "placeholder": "Нет значения"
-  },
-  "city/is_default": {
-    "label": "is_default",
-    "placeholder": "Нет значения"
-  },
-  "city/yandex_metrica": {
-    "label": "yandex_metrica",
-    "placeholder": "Нет значения"
-  },
-  "city/meta_title": {
-    "label": "meta_title",
-    "placeholder": "Нет значения"
-  },
-  "city/meta_description": {
-    "label": "meta_description",
-    "placeholder": "Нет значения"
-  },
-  "city/chatapp_legacy": {
-    "label": "chatapp_legacy",
-    "placeholder": "Нет значения"
-  },
-  "city/phone": {
-    "label": "phone",
-    "placeholder": "Нет значения"
-  },
-  "city/email": {
-    "label": "email",
-    "placeholder": "Нет значения"
-  },
-  "city/address": {
-    "label": "address",
-    "placeholder": "Нет значения"
-  },
-  "city/timezone_name": {
-    "label": "timezone_name",
-    "placeholder": "Нет значения"
-  },
-  "city/currency_name": {
-    "label": "currency_name",
-    "placeholder": "Нет значения"
-  },
-  "city/affilation": {
-    "label": "Тип",
-    "placeholder": "Нет значения"
-  },
-  "city/chatapp_version": {
-    "label": "Версия ChatApp",
     "placeholder": "Нет значения"
   },
   "city/telegram_channel_id": {
     "label": "ID телеграм-канала",
     "placeholder": "Нет значения"
   },
-  "city/vk_group_token": {
-    "label": "Токен сообщества VK",
+  "city/inst_link": {
+    "label": "inst_link",
+    "placeholder": "Нет значения"
+  },
+  "city/yandex_metrica": {
+    "label": "yandex_metrica",
+    "placeholder": "Нет значения"
+  },
+  "city/custom_script": {
+    "label": "custom_script",
+    "placeholder": "Нет значения"
+  },
+  "city/custom_html": {
+    "label": "custom_html",
+    "placeholder": "Нет значения"
+  },
+  "city/country_id": {
+    "label": "Страна",
+    "placeholder": "Нет значения"
+  },
+  "city/currency_id": {
+    "label": "Валюта",
+    "placeholder": "Нет значения"
+  },
+  "city/timezone_id": {
+    "label": "Часовой пояс",
     "placeholder": "Нет значения"
   },
   "city/country/id": {
@@ -291,32 +155,12 @@
     "label": "Часовой пояс",
     "placeholder": "Нет значения"
   },
-  "city/vk_group_token/value": {
+  "city/vk_group_token/vk_group_token": {
     "label": "Токен сообщества VK",
     "placeholder": "Нет значения"
   },
   "venue/name": {
     "label": "Название",
-    "placeholder": "Нет значения"
-  },
-  "venue/comment": {
-    "label": "comment",
-    "placeholder": "Нет значения"
-  },
-  "venue/comment_responsible": {
-    "label": "comment_responsible",
-    "placeholder": "Нет значения"
-  },
-  "venue/comment_equipment": {
-    "label": "comment_equipment",
-    "placeholder": "Нет значения"
-  },
-  "venue/latitude": {
-    "label": "latitude",
-    "placeholder": "Нет значения"
-  },
-  "venue/longitude": {
-    "label": "longitude",
     "placeholder": "Нет значения"
   },
   "venue/street": {
@@ -335,36 +179,12 @@
     "label": "Максимум команд",
     "placeholder": "Нет значения"
   },
-  "venue/is_adult": {
-    "label": "is_adult",
-    "placeholder": "Нет значения"
-  },
-  "venue/id": {
-    "label": "id",
-    "placeholder": "Нет значения"
-  },
   "venue/game_time": {
     "label": "Стандартное время игры",
     "placeholder": "Нет значения"
   },
   "venue/city_id": {
     "label": "Город",
-    "placeholder": "Нет значения"
-  },
-  "venue/time_created": {
-    "label": "Время создания",
-    "placeholder": "Нет значения"
-  },
-  "venue/time_updated": {
-    "label": "Время последнего обновления",
-    "placeholder": "Нет значения"
-  },
-  "venue/floor": {
-    "label": "floor",
-    "placeholder": "Нет значения"
-  },
-  "venue/metro": {
-    "label": "metro",
     "placeholder": "Нет значения"
   },
   "venue/location_info": {
@@ -391,26 +211,6 @@
     "label": "Подзаголовок",
     "placeholder": "Нет значения"
   },
-  "theme/id": {
-    "label": "ID",
-    "placeholder": "Нет значения"
-  },
-  "theme/time_created": {
-    "label": "Время создания",
-    "placeholder": "Нет значения"
-  },
-  "theme/time_updated": {
-    "label": "Время последнего обновления",
-    "placeholder": "Нет значения"
-  },
-  "theme/short_description": {
-    "label": "short_description",
-    "placeholder": "Нет значения"
-  },
-  "theme/image_id": {
-    "label": "image_id",
-    "placeholder": "Нет значения"
-  },
   "theme/description": {
     "label": "Описание",
     "placeholder": "Нет значения"
@@ -423,16 +223,20 @@
     "label": "Статус",
     "placeholder": "Нет значения"
   },
-  "game/name": {
-    "label": "Название",
+  "theme/cover/cover": {
+    "label": "Обложка",
     "placeholder": "Нет значения"
   },
-  "game/description": {
-    "label": "description",
+  "theme/cover/file": {
+    "label": "Файл",
     "placeholder": "Нет значения"
   },
   "game/number": {
     "label": "Номер",
+    "placeholder": "Нет значения"
+  },
+  "game/alias": {
+    "label": "Алиас",
     "placeholder": "Нет значения"
   },
   "game/status": {
@@ -447,60 +251,12 @@
     "label": "Стоимость",
     "placeholder": "Нет значения"
   },
-  "game/created_by_id": {
-    "label": "created_by_id",
-    "placeholder": "Нет значения"
-  },
-  "game/image_id": {
-    "label": "image_id",
-    "placeholder": "Нет значения"
-  },
-  "game/location_id": {
-    "label": "Место",
-    "placeholder": "Нет значения"
-  },
   "game/theme_id": {
     "label": "Тема",
     "placeholder": "Нет значения"
   },
-  "game/game_pack_id": {
-    "label": "game_pack_id",
-    "placeholder": "Нет значения"
-  },
-  "game/id": {
-    "label": "ID",
-    "placeholder": "Нет значения"
-  },
-  "game/time_created": {
-    "label": "Время создания",
-    "placeholder": "Нет значения"
-  },
-  "game/time_updated": {
-    "label": "Время последнего обновления",
-    "placeholder": "Нет значения"
-  },
-  "game/currency": {
-    "label": "currency",
-    "placeholder": "Нет значения"
-  },
-  "game/short_description": {
-    "label": "short_description",
-    "placeholder": "Нет значения"
-  },
-  "game/personal_comment": {
-    "label": "personal_comment",
-    "placeholder": "Нет значения"
-  },
-  "game/weekday": {
-    "label": "weekday",
-    "placeholder": "Нет значения"
-  },
-  "game/owner_id": {
-    "label": "owner_id",
-    "placeholder": "Нет значения"
-  },
-  "game/timezone": {
-    "label": "timezone",
+  "game/venue_id": {
+    "label": "Место",
     "placeholder": "Нет значения"
   },
   "game/min_members_count": {
@@ -511,92 +267,20 @@
     "label": "Макс. кол-во участников",
     "placeholder": "Нет значения"
   },
-  "game/alias": {
-    "label": "Алиас",
-    "placeholder": "Нет значения"
-  },
-  "game/city_id": {
-    "label": "city_id",
-    "placeholder": "Нет значения"
-  },
-  "registration/ads_from": {
-    "label": "Откуда узнали о нас",
-    "placeholder": "Нет значения"
-  },
-  "registration/celebrant": {
-    "label": "Именинник",
-    "placeholder": "Нет значения"
-  },
-  "registration/channel": {
-    "label": "Канал связи",
-    "placeholder": "Нет значения"
-  },
-  "registration/chatapp_id": {
-    "label": "chatapp_id",
-    "placeholder": "Нет значения"
-  },
-  "registration/comment": {
-    "label": "Комментарий к регистрации",
-    "placeholder": "Нет значения"
-  },
-  "registration/note": {
-    "label": "Заметка к регистрации",
-    "placeholder": "Нет значения"
-  },
-  "registration/confirmed_channel": {
-    "label": "Подтверждённый канал связи",
+  "registration/game_id": {
+    "label": "Игра",
     "placeholder": "Нет значения"
   },
   "registration/email": {
     "label": "Электронная почта",
     "placeholder": "Нет значения"
   },
-  "registration/event_id": {
-    "label": "Игра",
-    "placeholder": "Нет значения"
-  },
   "registration/human_name": {
     "label": "Капитан",
     "placeholder": "Нет значения"
   },
-  "registration/id": {
-    "label": "id",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_alone": {
-    "label": "Без команды",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_birthday": {
-    "label": "С именинником",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_canceled": {
-    "label": "is_canceled",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_confirm": {
-    "label": "is_confirm",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_extensible": {
-    "label": "Принимает игроков",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_first": {
-    "label": "Новичок",
-    "placeholder": "Нет значения"
-  },
-  "registration/is_reserve": {
-    "label": "is_reserve",
-    "placeholder": "Нет значения"
-  },
-  "registration/lineup": {
-    "label": "lineup",
-    "placeholder": "Нет значения"
-  },
-  "registration/mailing": {
-    "label": "mailing",
+  "registration/team_name": {
+    "label": "Команда",
     "placeholder": "Нет значения"
   },
   "registration/people_count": {
@@ -607,20 +291,60 @@
     "label": "Номер телефона",
     "placeholder": "Нет значения"
   },
+  "registration/channel": {
+    "label": "Канал связи",
+    "placeholder": "Нет значения"
+  },
   "registration/promocode": {
     "label": "Промокод",
     "placeholder": "Нет значения"
   },
-  "registration/status": {
-    "label": "status",
+  "registration/celebrant": {
+    "label": "Именинник",
     "placeholder": "Нет значения"
   },
-  "registration/team_name": {
-    "label": "Команда",
+  "registration/comment": {
+    "label": "Комментарий к регистрации",
+    "placeholder": "Нет значения"
+  },
+  "registration/note": {
+    "label": "Заметка к регистрации",
+    "placeholder": "Нет значения"
+  },
+  "registration/ads_from": {
+    "label": "Откуда узнали о нас",
+    "placeholder": "Нет значения"
+  },
+  "registration/is_alone": {
+    "label": "Без команды",
+    "placeholder": "Нет значения"
+  },
+  "registration/is_birthday": {
+    "label": "С именинником",
+    "placeholder": "Нет значения"
+  },
+  "registration/is_extensible": {
+    "label": "Принимает игроков",
+    "placeholder": "Нет значения"
+  },
+  "registration/is_first": {
+    "label": "Новичок",
+    "placeholder": "Нет значения"
+  },
+  "registration/vkontakte": {
+    "label": "vkontakte",
     "placeholder": "Нет значения"
   },
   "registration/telegramBot": {
     "label": "telegramBot",
+    "placeholder": "Нет значения"
+  },
+  "registration/utm_source": {
+    "label": "utm_source",
+    "placeholder": "Нет значения"
+  },
+  "registration/utm_medium": {
+    "label": "utm_medium",
     "placeholder": "Нет значения"
   },
   "registration/utm_campaign": {
@@ -631,20 +355,52 @@
     "label": "utm_content",
     "placeholder": "Нет значения"
   },
-  "registration/utm_medium": {
-    "label": "utm_medium",
-    "placeholder": "Нет значения"
-  },
-  "registration/utm_source": {
-    "label": "utm_source",
-    "placeholder": "Нет значения"
-  },
   "registration/utm_term": {
     "label": "utm_term",
     "placeholder": "Нет значения"
   },
-  "registration/vkontakte": {
+  "registration/attributes/is_alone": {
+    "label": "Без команды",
+    "placeholder": "Нет значения"
+  },
+  "registration/attributes/is_birthday": {
+    "label": "С именинником",
+    "placeholder": "Нет значения"
+  },
+  "registration/attributes/is_extensible": {
+    "label": "Принимает игроков",
+    "placeholder": "Нет значения"
+  },
+  "registration/attributes/is_first": {
+    "label": "Новичок",
+    "placeholder": "Нет значения"
+  },
+  "registration/channel/channel": {
+    "label": "Канал связи",
+    "placeholder": "Нет значения"
+  },
+  "registration/channel/confirmed_channel": {
+    "label": "Подтверждённый канал связи",
+    "placeholder": "Нет значения"
+  },
+  "registration/channel/email": {
+    "label": "Электронная почта",
+    "placeholder": "Нет значения"
+  },
+  "registration/channel/telegramBot": {
+    "label": "telegramBot",
+    "placeholder": "Нет значения"
+  },
+  "registration/channel/vkontakte": {
     "label": "vkontakte",
+    "placeholder": "Нет значения"
+  },
+  "registration/lineup/lineup": {
+    "label": "Состав",
+    "placeholder": "Нет значения"
+  },
+  "registration/status/status": {
+    "label": "Статус",
     "placeholder": "Нет значения"
   }
 }
