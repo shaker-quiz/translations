@@ -20,11 +20,11 @@
     "placeholder": "Нет значения"
   },
   "user/password/password": {
-    "label": "Значение",
+    "label": "Пароль",
     "placeholder": "Нет значения"
   },
   "user/role/id": {
-    "label": "Значение",
+    "label": "Роль",
     "placeholder": "Нет значения"
   },
   "city/name": {
@@ -96,11 +96,11 @@
     "placeholder": "Нет значения"
   },
   "city/min_members_count": {
-    "label": "Стандартное минимальное количество участников",
+    "label": "Стандартное мин. кол-во участников",
     "placeholder": "Нет значения"
   },
   "city/max_members_count": {
-    "label": "Стандартное максимальное количество участников",
+    "label": "Стандартное макс. кол-во участников",
     "placeholder": "Нет значения"
   },
   "city/chatapp_version": {
@@ -124,7 +124,7 @@
     "placeholder": "Нет значения"
   },
   "city/yandex_metrica": {
-    "label": "Идентификатор Яндекс.Метрики",
+    "label": "ID Яндекс.Метрики",
     "placeholder": "Нет значения"
   },
   "city/custom_script": {
@@ -217,6 +217,14 @@
   },
   "theme/cover/cover": {
     "label": "Обложка",
+    "placeholder": "Нет значения"
+  },
+  "game/venue_id": {
+    "label": "Место",
+    "placeholder": "Нет значения"
+  },
+  "game/theme_id": {
+    "label": "Тема",
     "placeholder": "Нет значения"
   },
   "game/number": {
