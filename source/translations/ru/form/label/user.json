@@ -1,0 +1,9 @@
+{
+  "email": "Электронная почта",
+  "city/id": "Город",
+  "password/password": "Пароль",
+  "role/id": "Роль",
+  "phone": "Номер телефона",
+  "first_name": "Имя",
+  "last_name": "Фамилия"
+}
