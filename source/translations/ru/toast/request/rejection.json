@@ -95,6 +95,14 @@
     "title": "Не удалось изменить канал связи регистрации",
     "description": ""
   },
+  "PATCH/registration/lineup": {
+    "title": "Не удалось изменить состав регистрации",
+    "description": ""
+  },
+  "PATCH/registration/status": {
+    "title": "Не удалось изменить статус регистрации",
+    "description": ""
+  },
   "PATCH/registrations/status": {
     "title": "Не удалось обновить статусы",
     "description": "Часть статусов могла быть обновлена до возникновения ошибки"
