@@ -15,6 +15,6 @@
     "./*.json": "./source/translations/*.json"
   },
   "devDependencies": {
-    "@shakerquiz/utilities": "4.0.78"
+    "@shakerquiz/utilities": "4.0.79"
   }
 }
