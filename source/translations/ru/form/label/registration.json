@@ -6,7 +6,7 @@
   "phone": "Номер телефона",
   "email": "Электронная почта",
   "vkontakte": "ID пользователя vkontakte",
-  "telegramBot": "ID пользователя telegram",
+  "telegram": "ID пользователя telegram",
   "is_first": "Новичок",
   "is_alone": "Без команды",
   "is_birthday": "С именинником",
