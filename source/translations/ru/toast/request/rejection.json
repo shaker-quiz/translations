@@ -83,6 +83,10 @@
     "title": "Не удалось обновить игру",
     "description": ""
   },
+  "PATCH/game/registration": {
+    "title": "Не удалось обновить регистрацию игры",
+    "description": ""
+  },
   "PATCH/games": {
     "title": "Не удалось обновить игры",
     "description": ""

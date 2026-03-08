@@ -75,6 +75,10 @@
     "title": "Игра обновлена!",
     "description": ""
   },
+  "PATCH/game/registration": {
+    "title": "Регистрация игры обновлена!",
+    "description": ""
+  },
   "PATCH/games": {
     "title": "Игры обновлены!",
     "description": ""
