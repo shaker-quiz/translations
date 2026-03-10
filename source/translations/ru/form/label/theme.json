@@ -3,6 +3,7 @@
   "alias": "Алиас",
   "subtitle": "Подзаголовок",
   "description": "Описание",
+  "short_description": "Краткое описание",
   "status": "Статус",
   "cover/cover": "Обложка"
 }
