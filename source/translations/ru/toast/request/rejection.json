@@ -87,6 +87,14 @@
     "title": "Не удалось обновить регистрацию игры",
     "description": ""
   },
+  "PATCH/game/venue": {
+    "title": "Не удалось изменить место игры",
+    "description": ""
+  },
+  "PATCH/game/theme": {
+    "title": "Не удалось изменить тему игры",
+    "description": ""
+  },
   "PATCH/games": {
     "title": "Не удалось обновить игры",
     "description": ""
