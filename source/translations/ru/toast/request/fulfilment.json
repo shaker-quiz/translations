@@ -79,6 +79,14 @@
     "title": "Регистрация игры обновлена!",
     "description": ""
   },
+  "PATCH/game/venue": {
+    "title": "Место игры изменено!",
+    "description": ""
+  },
+  "PATCH/game/theme": {
+    "title": "Тема игры изменена!",
+    "description": ""
+  },
   "PATCH/games": {
     "title": "Игры обновлены!",
     "description": ""
