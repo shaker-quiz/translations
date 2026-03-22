@@ -26,5 +26,6 @@
   "channel/email": "Электронная почта",
   "channel": "Канал связи",
   "status/status": "Статус",
-  "lineup/lineup": "Состав"
+  "lineup/lineup": "Состав",
+  "visibility": "Видимость"
 }
