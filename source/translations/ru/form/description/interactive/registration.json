@@ -26,5 +26,6 @@
   "channel/email": "",
   "channel": "",
   "status/status": "",
-  "lineup/lineup": ""
+  "lineup/lineup": "",
+  "visibility": ""
 }
