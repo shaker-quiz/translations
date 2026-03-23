@@ -26,5 +26,6 @@
   "channel/email": "Нет значения",
   "channel": "Нет значения",
   "status/status": "Нет значения",
-  "lineup/lineup": "Нет значения"
+  "lineup/lineup": "Нет значения",
+  "visibility": "Нет значения"
 }

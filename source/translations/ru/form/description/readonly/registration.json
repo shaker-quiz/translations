@@ -26,5 +26,6 @@
   "channel/email": "Только для чтения",
   "channel": "Только для чтения",
   "status/status": "Только для чтения",
-  "lineup/lineup": "Только для чтения"
+  "lineup/lineup": "Только для чтения",
+  "visibility": "Только для чтения"
 }
