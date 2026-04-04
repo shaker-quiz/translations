@@ -7,5 +7,6 @@
   "price": "Стоимость",
   "min_members_count": "Мин. кол-во участников",
   "max_members_count": "Макс. кол-во участников",
-  "status": "Статус"
+  "status": "Статус",
+  "visibility": "Видимость"
 }

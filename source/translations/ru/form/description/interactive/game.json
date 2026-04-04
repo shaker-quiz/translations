@@ -7,5 +7,6 @@
   "price": "",
   "min_members_count": "",
   "max_members_count": "",
-  "status": ""
+  "status": "",
+  "visibility": ""
 }
