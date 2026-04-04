@@ -7,5 +7,6 @@
   "price": "Нет значения",
   "min_members_count": "Нет значения",
   "max_members_count": "Нет значения",
-  "status": "Нет значения"
+  "status": "Нет значения",
+  "visibility": "Нет значения"
 }
