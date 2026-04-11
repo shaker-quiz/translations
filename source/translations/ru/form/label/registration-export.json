@@ -1,0 +1,9 @@
+{
+  "format": "Формат экспорта",
+  "column": "Столбцы для экспорта",
+  "registration/status": "Статус регистрации",
+  "registration/lineup": "Состав",
+  "registration/interval": "Период",
+  "registration/range": "Диапазон дат",
+  "registration/visibility": "Видимость"
+}

@@ -1,0 +1,9 @@
+{
+  "format": "Только для чтения",
+  "column": "Только для чтения",
+  "registration/status": "Только для чтения",
+  "registration/lineup": "Только для чтения",
+  "registration/interval": "Только для чтения",
+  "registration/range": "Только для чтения",
+  "registration/visibility": "Только для чтения"
+}
